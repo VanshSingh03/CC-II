@@ -20,7 +20,6 @@ public:
             }
             st.push(i);
         }
-
         return maxArea;
     }
 };
